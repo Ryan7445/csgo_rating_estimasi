@@ -304,4 +304,4 @@ Didapatkan hasil **R2** sebesar 0.8265764821228246 dan hasil **MSE** sebesar 0.0
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://csgoratingestimasi-bakcuyg99ffnmrmifma3ck.streamlit.app/
